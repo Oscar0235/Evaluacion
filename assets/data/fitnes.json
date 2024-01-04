@@ -1,0 +1,73 @@
+{
+    "fitness": [
+      {
+        "articulo": "Pesas de Mano (par)",
+        "precio": 24.99,
+        "categoria": "Pesas",
+        "peso": 5,
+        "color": "Negro"
+      },
+      {
+        "articulo": "Colchoneta de Yoga",
+        "precio": 19.99,
+        "categoria": "Equipamiento",
+        "color": "Morado"
+      },
+      {
+        "articulo": "Banda Elástica de Resistencia",
+        "precio": 14.99,
+        "categoria": "Equipamiento",
+        "nivel_resistencia": "Medio",
+        "color": "Verde"
+      },
+      {
+        "articulo": "Bicicleta Estática",
+        "precio": 199.99,
+        "categoria": "Equipos de Cardio",
+        "tipo": "Estática",
+        "color": "Gris"
+      },
+      {
+        "articulo": "Zapatillas Deportivas",
+        "precio": 59.99,
+        "categoria": "Calzado",
+        "tipo": "Running",
+        "color": "Azul"
+      },
+      {
+        "articulo": "Mancuernas Ajustables (par)",
+        "precio": 79.99,
+        "categoria": "Pesas",
+        "peso_maximo": 20,
+        "color": "Plateado"
+      },
+      {
+        "articulo": "Cuerda para Saltar",
+        "precio": 9.99,
+        "categoria": "Equipamiento",
+        "longitud": 3,
+        "color": "Amarillo"
+      },
+      {
+        "articulo": "Bandas de Resistencia (juego)",
+        "precio": 29.99,
+        "categoria": "Equipamiento",
+        "cantidad": 5,
+        "color": "Rojo"
+      },
+      {
+        "articulo": "Pantalones Deportivos",
+        "precio": 34.99,
+        "categoria": "Ropa Deportiva",
+        "genero": "Unisex",
+        "color": "Negro"
+      },
+      {
+        "articulo": "Rueda Abdominal",
+        "precio": 16.99,
+        "categoria": "Equipamiento",
+        "color": "Azul"
+      }
+     
+   ]
+ }
